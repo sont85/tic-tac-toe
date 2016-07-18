@@ -1,0 +1,4 @@
+node_modules
+.DS_STORE
+firebase-debug.log
+public/bundle.js
